@@ -5,6 +5,5 @@ variable "name_instances" {
   description = "Nome dos desenvolvedores STEMativa"
 }
 
-
 variable "servers" {
 }
